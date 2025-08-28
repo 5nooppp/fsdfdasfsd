@@ -1,1 +1,1 @@
-ssh s362tx2sJZkDh6a5ZzuSzWEqS@nyc1.tmate.io
+ssh JtzywfTrmnzkTAK7VSuhUXrze@sfo2.tmate.io
